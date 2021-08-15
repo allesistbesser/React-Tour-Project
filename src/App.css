@@ -1,0 +1,13 @@
+.navbarapp{
+    position: sticky;
+    top:0;
+    z-index: 1;
+
+}
+
+.App{
+    background-image: linear-gradient(to top, #0c3483 0%, #a2b6df 100%, #6b8cce 100%, #a2b6df 100%);
+    display: flex;
+    flex-flow: column wrap;
+    justify-content: center;
+}
